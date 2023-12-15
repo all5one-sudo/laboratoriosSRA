@@ -1,4 +1,0 @@
-Circuit: * E:\Documentos\GitHub\lab3SRA\circuito2.4.asc
-
-Fatal Error: Unknown subcircuit called in:
-   xu1 n004 n001 vcc+ vcc- n003 lm324
