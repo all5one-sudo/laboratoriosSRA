@@ -1,0 +1,21 @@
+Circuit: * E:\Documentos\GitHub\lab2SRA\circuito1.3.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Dec 11 08:25:44 2023
+Total elapsed time: 0.209 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 107
+traniter = 94
+tranpoints = 48
+accept = 48
+rejected = 0
+matrix size = 33
+fillins = 38
+solver = Normal
+Matrix Compiler1: 3.29 KB object code size
+Matrix Compiler2: 3.32 KB object code size  0.3/0.4/[0.2]
+

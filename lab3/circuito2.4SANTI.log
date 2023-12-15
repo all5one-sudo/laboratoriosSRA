@@ -1,0 +1,88 @@
+Circuit: * E:\Documentos\GitHub\lab3SRA\circuito2.4SANTI.asc
+
+Limiting rise time of source v1 to 1.95399e-015
+Limiting fall time of source v1 to 1.95399e-015
+WARNING: Less than two connections to node N008.  This node is used by Q:U1:2.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 48.1882
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 46.6369
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 46.5459
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 86.3636%
+Source Step = 87.7604%
+Source Step = 87.8788%
+Source Step = 87.9972%
+Source Step = 88.1155%
+Source Step = 88.2339%
+vernier = 0.00585938
+Source Step = 88.3582%
+Source Step = 88.5357%
+Source Step = 88.7133%
+Source Step = 88.8909%
+Source Step = 89.0684%
+Source Step = 89.246%
+vernier = 0.00878906
+Source Step = 89.5123%
+Source Step = 89.7786%
+Source Step = 90.045%
+Source Step = 90.3113%
+Source Step = 90.5777%
+vernier = 0.0131836
+Source Step = 90.9638%
+Source Step = 91.3633%
+Source Step = 91.7628%
+Source Step = 92.1623%
+Source Step = 92.5618%
+vernier = 0.0197754
+Source Step = 93.1212%
+Source Step = 93.7204%
+Source Step = 94.3197%
+Source Step = 94.9189%
+Source Step = 95.5182%
+vernier = 0.0296631
+Source Step = 96.3272%
+Source Step = 97.226%
+Source Step = 98.1249%
+Source Step = 99.0238%
+Source Step = 99.9227%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Thu Dec 14 18:02:14 2023
+Total elapsed time: 1.458 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5947
+traniter = 2348
+tranpoints = 1125
+accept = 1106
+rejected = 19
+matrix size = 180
+fillins = 545
+solver = Normal
+Thread vector: 14.0/8.8[4] 4.4/4.0[2] 5.0/3.6[4] 1.1/1.8[1]  2592/500
+Matrix Compiler1: 43.55 KB object code size  43.5/13.6/[4.9]
+Matrix Compiler2: 24.24 KB object code size  6.4/8.5/[2.1]
+

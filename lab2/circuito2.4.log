@@ -1,0 +1,51 @@
+Circuit: * E:\Documentos\GitHub\lab2SRA\circuito2.4.asc
+
+Error on line 14 : v3 n008 0 sine(- 10  -1 50)
+	 Unknown parameter "-"
+Direct Newton iteration for .op point succeeded.
+.step x=10
+.step x=10.75
+.step x=11.5
+.step x=12.25
+.step x=13
+.step x=13.75
+.step x=14.5
+.step x=15.25
+.step x=16
+.step x=16.75
+.step x=17.5
+.step x=18.25
+.step x=19
+.step x=19.75
+.step x=20.5
+.step x=21.25
+.step x=22
+.step x=22.75
+.step x=23.5
+.step x=24.25
+.step x=25
+.step x=25.75
+.step x=26.5
+.step x=27.25
+.step x=28
+.step x=28.75
+.step x=29.5
+.step x=30
+
+Date: Thu Dec 14 22:20:30 2023
+Total elapsed time: 1.161 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2100
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 60
+fillins = 114
+solver = Normal
+Matrix Compiler1:     496 opcodes  1.5/[0.8]/0.9
+Matrix Compiler2: 7.07 KB object code size  1.0/0.7/[0.4]
+
